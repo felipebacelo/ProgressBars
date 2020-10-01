@@ -39,7 +39,7 @@ Para utilizar este exemplo o usuário deverá:
 ***
 ### Demo
 
-![GIF](https://github.com/felipebacelo/ProgressBars/blob/master/Demo.gif)
+![GIF](https://github.com/felipebacelo/ProgressBars/blob/main/Demo.gif)
 
 ***
 ### Exemplo de Macro Utilizada
