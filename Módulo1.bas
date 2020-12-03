@@ -1,2 +1,10 @@
-Attribute VB_Name = "Módulo1"
-Declare Sub Sleep Lib "kernel32" (ByVal dwMilliseconds As Long)
+Attribute VB_Name = "MÃ³dulo1"
+#If VBA7 Then
+    Declare PtrSafe Sub Sleep Lib "kernel32" (ByVal dwMilliseconds As Long)
+#Else
+    Declare Sub Sleep Lib "kernel32" (ByVal dwMilliseconds As Long)
+#End If
+    
+Sub TestProgressBar()
+    UserForm1.Show
+End Sub
