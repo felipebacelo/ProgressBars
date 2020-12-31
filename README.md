@@ -44,7 +44,7 @@ Para utilizar este exemplo o usuário deverá:
 ***
 ### Exemplo de Macro Utilizada
 
-```
+```vba
 Option Explicit
 
 Private Sub UserForm_Activate()
