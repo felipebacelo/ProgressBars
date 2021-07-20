@@ -1,11 +1,12 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/ProgressBars?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/ProgressBars?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/felipebacelo/ProgressBars?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/ProgressBars?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/ProgressBars?style=for-the-badge)
+<p align="center">
+<a href= "https://img.shields.io/github/repo-size/felipebacelo/ProgressBars?style=for-the-badge"><img src="https://img.shields.io/github/repo-size/felipebacelo/ProgressBars?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/languages/count/felipebacelo/ProgressBars?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/felipebacelo/ProgressBars?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/github/forks/felipebacelo/ProgressBars?style=for-the-badge"><img src="https://img.shields.io/github/forks/felipebacelo/ProgressBars?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/pr-raw/felipebacelo/ProgressBars?style=for-the-badge"><img src="https://img.shields.io/bitbucket/pr-raw/felipebacelo/ProgressBars?style=for-the-badge"/></a>
+<a href= "https://img.shields.io/bitbucket/issues/felipebacelo/ProgressBars?style=for-the-badge"><img src="https://img.shields.io/bitbucket/issues/felipebacelo/ProgressBars?style=for-the-badge"/></a>
+</p>
 
 # ProgressBars
-ProgressBars - VBA Excel
 
 Simples exemplo de como podemos criar uma barra de progresso através do VBA.
 
@@ -42,7 +43,7 @@ Para utilizar este exemplo o usuário deverá:
 ![GIF](https://github.com/felipebacelo/ProgressBars/blob/main/Demo.gif)
 
 ***
-### Exemplo de Macro Utilizada
+### Exemplo de Código Utilizado
 
 ```vba
 Option Explicit
